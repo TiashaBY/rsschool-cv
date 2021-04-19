@@ -1,5 +1,5 @@
 # Tatiana Bulavko
-## Senior test automation engineer
+#### Senior test automation engineer
 
 ###### Contact Info: t.bulavko@gmail.com
 
@@ -32,4 +32,4 @@ almost 5 of them as a test automation engineer. Currently, in addition to a key 
 * 2003 - 2008 Belarusian State University, economy and management
     
 ###### English: B2
-Currently I'm working in a mixed team for a Dutch project, so all the communications go in English only
+Currently, I'm working in a mixed team for a Dutch project, so all the communications go in English only
