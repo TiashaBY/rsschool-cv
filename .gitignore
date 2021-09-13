@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea/
+/.gradle/
+/rs.android.task.4/.idea/
+local.properties
